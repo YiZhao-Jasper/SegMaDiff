@@ -54,7 +54,7 @@ The **MDFormer** module introduces several innovations:
 
 - **Python 3.11** or higher
 - **CUDA 12.2** or compatible version (check with `nvidia-smi`)
-- **GPU**: Recommended 48GB VRAM for training at 256×256 resolution
+- **GPU**: Recommended 2 * RTX 4090 (48GB VRAM) for training at 256×256 resolution
 
 ### Setup
 
