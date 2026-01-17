@@ -7,6 +7,12 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1.2-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org)
 [![CUDA](https://img.shields.io/badge/CUDA-12.2-76B900.svg?logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 
+<br>
+<img src="logo_ICASSP.webp" width="300">
+
+### 🎉 ACCEPTED at IEEE ICASSP 2026
+### 🇪🇸 See you in Barcelona!
+
 </div>
 
 ## Overview
@@ -512,13 +518,14 @@ tensorboard --logdir=runs/
 
 If you use SegMaDiff in your research, please cite:
 
+Y. Zhao, Q. Fan, X. Duan, and D. Chen, "SegMaDiff: Segmentation-Guided Mamba Dynamic Diffusion Model for Anatomy-Preserving MRI Generation," in Proc. 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
+
 ```bibtex
-@misc{segmadiff2024,
-  author = {Zhao, Yi},
-  title = {SegMaDiff: Segmentation-Guided Diffusion with Mamba-Dynamic Transformer},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/ZhaoYi-10-13/SegMaDiff}
+@inproceedings{zhao2026segmadiff,
+  title={SegMaDiff: Segmentation-Guided Mamba Dynamic Diffusion Model for Anatomy-Preserving MRI Generation},
+  author={Zhao, Yi and Fan, Q. and Duan, X. and Chen, D.},
+  booktitle={Proc. 51st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  year={2026}
 }
 ```
 
