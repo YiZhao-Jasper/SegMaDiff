@@ -10,7 +10,7 @@
 <br>
 <img src="logo_ICASSP.webp" width="300">
 
-### 🎉 ACCEPTED at IEEE ICASSP 2026
+### 🎉 ACCEPTED at IEEE ICASSP 2026 (CORE B & CCF B)
 ### 🇪🇸 See you in Barcelona!
 
 </div>
