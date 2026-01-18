@@ -12,7 +12,7 @@ authors:
 title: "SegMaDiff: Segmentation-Guided Mamba Dynamic Diffusion Model for Anatomy-Preserving MRI Generation"
 version: 1.0.0
 date-released: 2026-01-17
-url: "https://github.com/ZhaoYi-10-13/SegMaDiff"
+url: "https://github.com/YiZhao-Jasper/SegMaDiff"
 preferred-citation:
   type: conference-paper
   authors:
