@@ -67,7 +67,7 @@ The **MDFormer** module introduces several innovations:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/ZhaoYi-10-13/SegMaDiff.git
+git clone https://github.com/YiZhao-Jasper/SegMaDiff.git
 cd SegMaDiff
 ```
 
@@ -555,7 +555,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 ## Contact
 
 **Author**: Yi Zhao  
-**GitHub**: [@ZhaoYi-10-13](https://github.com/ZhaoYi-10-13)
+**GitHub**: [@YiZhao-Jasper](https://github.com/YiZhao-Jasper)
 
 For questions, issues, or collaboration inquiries, please open an issue on GitHub.
 
